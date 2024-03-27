@@ -1,0 +1,6 @@
+yum -y install kernel-tools-libs-devel  \
+libcurl-devel libedit-devel libnet libopenarc-devel  libopendkim-devel   \
+libopendmarc-devel   libopenmpt-devel  libopenraw-gnome-devel   \
+libopenraw-pixbuf-loader   libpcap-devel   libsrtp-devel libss7-devel \
+libsysfs  libtool-ltdl-devel  perl-libwww-perl 
+
